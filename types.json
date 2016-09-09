@@ -1,0 +1,738 @@
+[
+  {
+    "exts": [
+      "3ga"
+    ],
+    "mime": "audio/3gpp",
+    "mtype": "audio",
+    "title": "3GPP Audio"
+  },
+  {
+    "exts": [
+      "3ga2"
+    ],
+    "mime": "audio/3gpp2",
+    "mtype": "audio",
+    "title": "3GPP Audio"
+  },
+  {
+    "exts": [
+      "ac3",
+      "a52"
+    ],
+    "mime": "audio/ac3",
+    "mtype": "audio",
+    "title": "AC-3 Audio"
+  },
+  {
+    "exts": [
+      "adts",
+      "adt"
+    ],
+    "mime": "audio/vnd.dlna.adts",
+    "mtype": "audio",
+    "title": "ADTS Audio"
+  },
+  {
+    "exts": [
+      "aiff",
+      "aif",
+      "aifc"
+    ],
+    "mime": "audio/aiff",
+    "mtype": "audio",
+    "title": "AIFF Audio"
+  },
+  {
+    "exts": [
+      "amr"
+    ],
+    "mime": "audio/amr",
+    "mtype": "audio",
+    "title": "AMR Audio"
+  },
+  {
+    "exts": [
+      "awb"
+    ],
+    "mime": "audio/amr-wb",
+    "mtype": "audio",
+    "title": "AMR-WB Audio"
+  },
+  {
+    "exts": [
+      "au",
+      "snd"
+    ],
+    "mime": "audio/basic",
+    "mtype": "audio",
+    "title": "AU Audio"
+  },
+  {
+    "exts": [
+      "ay"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "AY Audio"
+  },
+  {
+    "exts": [
+      "cue"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "CUE Sheet"
+  },
+  {
+    "exts": [
+      "dts"
+    ],
+    "mime": "audio/vnd.dts",
+    "mtype": "audio",
+    "title": "DTS Audio"
+  },
+  {
+    "exts": [
+      "dts-hd",
+      "dtshd"
+    ],
+    "mime": "audio/vnd.dts.hd",
+    "mtype": "audio",
+    "title": "DTS-HD Audio"
+  },
+  {
+    "exts": [
+      "eac3"
+    ],
+    "mime": "audio/eac3",
+    "mtype": "audio",
+    "title": "E-AC-3 Audio"
+  },
+  {
+    "exts": [
+      "flac"
+    ],
+    "mime": "audio/flac",
+    "mtype": "audio",
+    "title": "FLAC Audio"
+  },
+  {
+    "exts": [
+      "f4a"
+    ],
+    "mime": "audio/mp4",
+    "mtype": "audio",
+    "title": "Flash Audio"
+  },
+  {
+    "exts": [
+      "gbs"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "GBS Audio"
+  },
+  {
+    "exts": [
+      "gym"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "GYM Audio"
+  },
+  {
+    "exts": [
+      "hes"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "HES Audio"
+  },
+  {
+    "exts": [
+      "kss"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "KSS Audio"
+  },
+  {
+    "exts": [
+      "lpcm"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "Linear PCM Audio"
+  },
+  {
+    "exts": [
+      "m3u",
+      "m3u8"
+    ],
+    "mime": "audio/x-mpegurl",
+    "mtype": "audio",
+    "title": "M3U Playlist"
+  },
+  {
+    "exts": [
+      "mlp"
+    ],
+    "mime": "audio/vnd.dolby.mlp",
+    "mtype": "audio",
+    "title": "MLP Audio"
+  },
+  {
+    "exts": [
+      "mp3"
+    ],
+    "mime": "audio/mpeg",
+    "mtype": "audio",
+    "title": "MP3 Audio"
+  },
+  {
+    "exts": [
+      "mpa",
+      "m1a",
+      "m2a",
+      "mp1",
+      "mp2"
+    ],
+    "mime": "audio/mpeg",
+    "mtype": "audio",
+    "title": "MPEG Audio"
+  },
+  {
+    "exts": [
+      "m4a"
+    ],
+    "mime": "audio/mp4",
+    "mtype": "audio",
+    "title": "MPEG-4 Audio"
+  },
+  {
+    "exts": [
+      "mka"
+    ],
+    "mime": "audio/x-matroska",
+    "mtype": "audio",
+    "title": "Matroska Audio"
+  },
+  {
+    "exts": [
+      "ape"
+    ],
+    "mime": "audio/x-ape",
+    "mtype": "audio",
+    "title": "Monkey's Audio"
+  },
+  {
+    "exts": [
+      "nsf"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "NSF Audio"
+  },
+  {
+    "exts": [
+      "nsfe"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "NSFE Audio"
+  },
+  {
+    "exts": [
+      "oga",
+      "ogg"
+    ],
+    "mime": "audio/ogg",
+    "mtype": "audio",
+    "title": "Ogg Audio"
+  },
+  {
+    "exts": [
+      "opus"
+    ],
+    "mime": "audio/ogg",
+    "mtype": "audio",
+    "title": "Opus Audio"
+  },
+  {
+    "exts": [
+      "pcm"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "PCM Audio"
+  },
+  {
+    "exts": [
+      "pls"
+    ],
+    "mime": "audio/x-scpls",
+    "mtype": "audio",
+    "title": "PLS Playlist"
+  },
+  {
+    "exts": [
+      "aac"
+    ],
+    "mime": "audio/aac",
+    "mtype": "audio",
+    "title": "Raw AAC Audio"
+  },
+  {
+    "exts": [
+      "ra",
+      "ram"
+    ],
+    "mime": "audio/vnd.rn-realaudio",
+    "mtype": "audio",
+    "title": "Real Media Audio"
+  },
+  {
+    "exts": [
+      "sap"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "SAP Audio"
+  },
+  {
+    "exts": [
+      "spc"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "SPC Audio"
+  },
+  {
+    "exts": [
+      "shn"
+    ],
+    "mime": "audio/x-shorten",
+    "mtype": "audio",
+    "title": "Shorten Audio"
+  },
+  {
+    "exts": [
+      "spx"
+    ],
+    "mime": "audio/ogg",
+    "mtype": "audio",
+    "title": "Speex Audio"
+  },
+  {
+    "exts": [
+      "tta"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "True Audio"
+  },
+  {
+    "exts": [
+      "true-hd",
+      "thd",
+      "truehd",
+      "thd+ac3"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "TrueHD Audio"
+  },
+  {
+    "exts": [
+      "vgm"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "VGM Audio"
+  },
+  {
+    "exts": [
+      "vgz"
+    ],
+    "mime": null,
+    "mtype": "audio",
+    "title": "VGZ Audio"
+  },
+  {
+    "exts": [
+      "wv"
+    ],
+    "mime": "audio/x-wavpack",
+    "mtype": "audio",
+    "title": "WavPack Audio"
+  },
+  {
+    "exts": [
+      "wav"
+    ],
+    "mime": "audio/wav",
+    "mtype": "audio",
+    "title": "Wave Audio"
+  },
+  {
+    "exts": [
+      "weba"
+    ],
+    "mime": "audio/webm",
+    "mtype": "audio",
+    "title": "WebM Audio"
+  },
+  {
+    "exts": [
+      "wma"
+    ],
+    "mime": "audio/x-ms-wma",
+    "mtype": "audio",
+    "title": "Windows Media Audio"
+  },
+  {
+    "exts": [
+      "3gpp",
+      "3gp"
+    ],
+    "mime": "video/3gpp",
+    "mtype": "video",
+    "title": "3GPP Video"
+  },
+  {
+    "exts": [
+      "3gp2",
+      "3g2"
+    ],
+    "mime": "video/3gpp2",
+    "mtype": "video",
+    "title": "3GPP Video"
+  },
+  {
+    "exts": [
+      "3iv"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "3ivx Video"
+  },
+  {
+    "exts": [
+      "dv",
+      "hdv"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "DV Video"
+  },
+  {
+    "exts": [
+      "divx"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "DivX Video"
+  },
+  {
+    "exts": [
+      "evob",
+      "evo"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Enhanced VOB"
+  },
+  {
+    "exts": [
+      "flic",
+      "fli",
+      "flc"
+    ],
+    "mime": "video/flc",
+    "mtype": "video",
+    "title": "FLIC Video"
+  },
+  {
+    "exts": [
+      "flv"
+    ],
+    "mime": "video/x-flv",
+    "mtype": "video",
+    "title": "Flash Video"
+  },
+  {
+    "exts": [
+      "f4v"
+    ],
+    "mime": "video/mp4",
+    "mtype": "video",
+    "title": "Flash Video"
+  },
+  {
+    "exts": [
+      "gxf"
+    ],
+    "mime": "application/gxf",
+    "mtype": "video",
+    "title": "General Exchange Format"
+  },
+  {
+    "exts": [
+      "mpeg",
+      "mpg",
+      "mpe",
+      "mpeg1",
+      "mpeg2",
+      "m1v",
+      "m2v",
+      "mp2v",
+      "mpv",
+      "mpv2",
+      "mod",
+      "tod"
+    ],
+    "mime": "video/mpeg",
+    "mtype": "video",
+    "title": "MPEG Video"
+  },
+  {
+    "exts": [
+      "m2ts",
+      "m2t",
+      "mts",
+      "mtv",
+      "ts",
+      "tsv",
+      "tsa",
+      "tts",
+      "trp"
+    ],
+    "mime": "video/vnd.dlna.mpeg-tts",
+    "mtype": "video",
+    "title": "MPEG-2 Transport Stream"
+  },
+  {
+    "exts": [
+      "mpeg4",
+      "m4v",
+      "mp4",
+      "mp4v",
+      "mpg4"
+    ],
+    "mime": "video/mp4",
+    "mtype": "video",
+    "title": "MPEG-4 Video"
+  },
+  {
+    "exts": [
+      "mxf"
+    ],
+    "mime": "application/mxf",
+    "mtype": "video",
+    "title": "Material Exchange Format"
+  },
+  {
+    "exts": [
+      "mk3d"
+    ],
+    "mime": "video/x-matroska",
+    "mtype": "video",
+    "title": "Matroska 3D Video"
+  },
+  {
+    "exts": [
+      "mkv"
+    ],
+    "mime": "video/x-matroska",
+    "mtype": "video",
+    "title": "Matroska Video"
+  },
+  {
+    "exts": [
+      "dvr-ms",
+      "dvr"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Microsoft Recorded TV Show"
+  },
+  {
+    "exts": [
+      "nut"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "NUT Video"
+  },
+  {
+    "exts": [
+      "nsv"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Nullsoft Streaming Video"
+  },
+  {
+    "exts": [
+      "ogv",
+      "ogm"
+    ],
+    "mime": "video/ogg",
+    "mtype": "video",
+    "title": "Ogg Video"
+  },
+  {
+    "exts": [
+      "ogx"
+    ],
+    "mime": "application/ogg",
+    "mtype": "video",
+    "title": "Ogg Video"
+  },
+  {
+    "exts": [
+      "hdmov"
+    ],
+    "mime": "video/quicktime",
+    "mtype": "video",
+    "title": "QuickTime HD Video"
+  },
+  {
+    "exts": [
+      "qt",
+      "mov"
+    ],
+    "mime": "video/quicktime",
+    "mtype": "video",
+    "title": "QuickTime Video"
+  },
+  {
+    "exts": [
+      "h264",
+      "avc",
+      "x264",
+      "264"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Raw H.264/AVC Video"
+  },
+  {
+    "exts": [
+      "hevc",
+      "h265",
+      "x265",
+      "265"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Raw H.265/HEVC Video"
+  },
+  {
+    "exts": [
+      "yuv"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Raw YUV Video"
+  },
+  {
+    "exts": [
+      "rm"
+    ],
+    "mime": "application/vnd.rn-realmedia",
+    "mtype": "video",
+    "title": "Real Media Video"
+  },
+  {
+    "exts": [
+      "rmvb"
+    ],
+    "mime": "application/vnd.rn-realmedia-vbr",
+    "mtype": "video",
+    "title": "Real Media Video"
+  },
+  {
+    "exts": [
+      "avi",
+      "vfw"
+    ],
+    "mime": "video/avi",
+    "mtype": "video",
+    "title": "Video Clip"
+  },
+  {
+    "exts": [
+      "vob",
+      "vro"
+    ],
+    "mime": "video/dvd",
+    "mtype": "video",
+    "title": "Video Object"
+  },
+  {
+    "exts": [
+      "webm"
+    ],
+    "mime": "video/webm",
+    "mtype": "video",
+    "title": "WebM Video"
+  },
+  {
+    "exts": [
+      "wm"
+    ],
+    "mime": "video/x-ms-wm",
+    "mtype": "video",
+    "title": "Windows Media Video"
+  },
+  {
+    "exts": [
+      "wmv"
+    ],
+    "mime": "video/x-ms-wmv",
+    "mtype": "video",
+    "title": "Windows Media Video"
+  },
+  {
+    "exts": [
+      "asf"
+    ],
+    "mime": "video/x-ms-asf",
+    "mtype": "video",
+    "title": "Windows Media Video"
+  },
+  {
+    "exts": [
+      "wtv"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "Windows Recorded TV Show"
+  },
+  {
+    "exts": [
+      "xvid"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "XVID Video"
+  },
+  {
+    "exts": [
+      "y4m"
+    ],
+    "mime": null,
+    "mtype": "video",
+    "title": "YUV4MPEG2 Video"
+  },
+  {
+    "exts": [
+      "gif"
+    ],
+    "mime": "image/dif",
+    "mtype": "image",
+    "title": "GIF Image"
+  }
+]

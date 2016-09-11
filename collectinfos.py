@@ -22,8 +22,9 @@ with open("infos.nsi", "w", encoding="utf-8") as infos:
     pe = PE("mpv.exe")
     version = get_version(pe)
     arch = "x86_64" if "AMD64" in MACHINE_TYPE[pe.FILE_HEADER.Machine] else "i686"
+    today = datetime.date.today()
     if version.endswith(".0.0.0"):
-        today = datetime.date.today()
         version = "{}.{:%Y.%m.%d}".format(version[0], today)
     print('!define ARCH "{}"'.format(arch), file=infos)
     print('!define Version "{}"'.format(version), file=infos)
+    print('!define DATE "{:%Y-%m-%d}"'.format(today), file=infos)

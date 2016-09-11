@@ -4,7 +4,7 @@
 !include "FileFunc.nsh"
 
 ; gathers and includes infos about the binary
-!system "./collectinfos.py"
+!system "collectinfos.py"
 !include "infos.nsi"
 
 ; some defines
@@ -14,7 +14,7 @@
 
 ; basic installer setup
 Name "${PRODUCT}"
-OutFile "mpv-${ARCH}-setup.exe"
+OutFile "dist/mpv-${ARCH}-${DATE}-setup.exe"
 BrandingText "${PRODUCT} - ${Version}"
 
 ; version information

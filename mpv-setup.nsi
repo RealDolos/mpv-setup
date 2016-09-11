@@ -5,7 +5,9 @@
 
 ; gathers and includes infos about the binary
 !system "collectinfos.py"
+!system "./collectinfos.py"
 !include "infos.nsi"
+!delfile "infos.nsi"
 
 ; some defines
 !define PRODUCT "mpv - a media player"
